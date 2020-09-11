@@ -1,0 +1,2 @@
+export(apiCall2,testfunc)
+import(httr,jsonlite,testthat)
